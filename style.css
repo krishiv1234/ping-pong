@@ -1,0 +1,19 @@
+.heading{
+    width:100%;
+    text-align: left;
+}
+
+.heading h3{
+    display:inline;
+}
+
+.modal-body{
+    text-align:left ;
+    font-size: 20px;
+}
+
+canvas{
+    border: solid black 6px;
+    border-radius: 25px;
+    box-shadow:5px,5px,35px,green;
+}
